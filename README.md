@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nyct-oph29
 - 👀 I’m interested in anything new that I can learn
-- 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on projects related to web dev
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on projects related to machine learning
 
 
 <!---
